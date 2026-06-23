@@ -1,0 +1,8 @@
+{
+    "name": "garudadidada/garudadidadaa",
+    "description": "Humanize ports - port number to service name converter in 8 languages",
+    "require": {
+        "php": ">=8.2",
+        "another-vendor/package": "1.*"
+    }
+}
